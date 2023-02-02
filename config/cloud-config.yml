@@ -1,1 +1,2 @@
-config.test=test
+config:
+  test: test
